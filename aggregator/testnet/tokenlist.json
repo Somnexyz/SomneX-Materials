@@ -12,7 +12,7 @@
         "symbol": "WSTT",
         "decimals": 18,
         "tag": "Trends",
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/weth.png",
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/wstt.png",
         "tokenAddr": "0x4200000000000000000000000000000000000006",
         "poolAddr": "0x9FCCa0a1af56d34C88156E8857A5f430dB7A6382",
         "toTokenAddr": "0x0621c8c9fc239980650487d2b36d35fe6be1b727"
@@ -22,7 +22,7 @@
         "symbol": "USDT.x",
         "decimals": 6,
         "tag": "USD",
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png"
       }
     ],
     "version": {
