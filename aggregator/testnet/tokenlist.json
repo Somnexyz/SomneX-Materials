@@ -29,8 +29,8 @@
         "decimals": 18,
         "tag": "Trends",
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png",
-        "poolAddr": "0xe0cf8e5cff521b93632910ec3f35e0841af926ce",
-        "toTokenAddr": "0x0621c8c9fc239980650487d2b36d35fe6be1b727"
+        "poolAddr": "0x9a3993af9017fda56e29e0c104e374097a28db6b",
+        "toTokenAddr": "0x509fba1e172a5dce7f2a34273eac7368ae279b3b"
       },
       {
         "address": "0x509Fba1e172A5DCE7F2a34273eac7368AE279b3B",
@@ -38,8 +38,8 @@
         "decimals": 18,
         "tag": "Trends",
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png",
-        "poolAddr": "0x9a3993af9017fda56e29e0c104e374097a28db6b",
-        "toTokenAddr": "0xa8eaf3d3b308862da4a3bd50dd4511b2e8ccfaea"
+        "poolAddr": "0xe0cf8e5cff521b93632910ec3f35e0841af926ce",
+        "toTokenAddr": "0x0621c8c9fc239980650487d2b36d35fe6be1b727"
       },
       {
         "address": "0xB3Be775f5bF019400050A5e16F377C1Fd0f0cF60",
