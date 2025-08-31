@@ -14,8 +14,8 @@
         "tag": "Trends",
         "isTop": true,
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png",
-        "poolAddr": "0x9FCCa0a1af56d34C88156E8857A5f430dB7A6382",
-        "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
+        "poolAddr": "0xe5467be8b8db6b074904134e8c1a581f5565e2c3",
+        "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
       },
       {
         "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
