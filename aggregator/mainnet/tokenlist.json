@@ -33,7 +33,9 @@
         "decimals": 6,
         "tag": "USD",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png",
+        "poolAddr": "0xe5467be8b8db6b074904134e8c1a581f5565e2c3",
+        "toTokenAddr": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab"
       },
       {
         "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
