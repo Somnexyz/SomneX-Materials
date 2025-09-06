@@ -40,6 +40,15 @@
         "tag": "USD",
         "isTop": true,
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png"
+      },
+      {
+        "address": "0x07e4ff8b9bba0f9f9aebed2fc5e8a773fb1e03ea",
+        "symbol": "BOBR",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/6bdb2446-2a0b-5e00-b475-34329a41d874.webp",
+        "poolAddr": "0x30c2c574759b7f05240d9e80a79813ee9f32c283",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       }
     ],
     "version": {
