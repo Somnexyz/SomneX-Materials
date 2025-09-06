@@ -67,6 +67,13 @@
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/zl.png",
         "poolAddr": "0xf3ade799af12541e5ed68bd811fc28e359f7d431",
         "toTokenAddr": "0x509fba1e172a5dce7f2a34273eac7368ae279b3b"
+      },
+      {
+        "address": "0x07e4ff8b9bba0f9f9aebed2fc5e8a773fb1e03ea",
+        "symbol": "TIN",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/tin.png"
       }
     ],
     "version": {
