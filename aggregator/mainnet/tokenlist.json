@@ -14,7 +14,7 @@
         "tag": "Trends",
         "isTop": true,
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png",
-        "poolAddr": "0xe5467be8b8db6b074904134e8c1a581f5565e2c3",
+        "poolAddr": "0xb1a5a70A946667655bF14512599d06ACCA020F62",
         "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
       },
       {
@@ -23,7 +23,8 @@
         "decimals": 18,
         "tag": "Trends",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png",
+        "poolAddr":"0xc823dca60dc9352ea770ccb49030961bc9b6f046"
       },
       {
         "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
@@ -31,7 +32,8 @@
         "decimals": 6,
         "tag": "USD",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png",
+        "poolAddr":"0x994570aa6a46d2bc0358f799634ae8db79b8cd73"
       },
       {
         "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
@@ -39,7 +41,8 @@
         "decimals": 6,
         "tag": "USD",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png",
+        "poolAddr": "0xb346de4dea98f55d488169d67bf0935503b8cc6a"
       },
       {
         "address": "0x07e4ff8b9bba0f9f9aebed2fc5e8a773fb1e03ea",
