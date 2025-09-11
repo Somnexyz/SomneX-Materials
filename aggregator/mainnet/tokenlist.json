@@ -45,6 +45,15 @@
         "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       },
       {
+        "address": "0xd5447af13a1df69add89e185155b20fb72d5e9a7",
+        "symbol": "JELLU",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/34bf923f-3dfe-59a4-be8b-9912e88bee84.webp",
+        "poolAddr": "0x2d613016b1242250e1572f52d4d1f411ee0d98a9",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
         "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
         "symbol": "NIA",
         "decimals": 18,
