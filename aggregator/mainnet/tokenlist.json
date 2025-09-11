@@ -18,15 +18,6 @@
         "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
       },
       {
-        "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
-        "symbol": "WETH",
-        "decimals": 18,
-        "tag": "Trends",
-        "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png",
-        "poolAddr":"0xc823dca60dc9352ea770ccb49030961bc9b6f046"
-      },
-      {
         "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
         "symbol": "USDC.e",
         "decimals": 6,
