@@ -54,6 +54,15 @@
         "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       },
       {
+        "address": "0x1d95f6d8dac2f8d667957e10b6bbce4136dd93b5",
+        "symbol": "BEARDY",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/450843d7-81f0-5fbc-92f5-1dc73bf398bf.webp",
+        "poolAddr": "0xf0d7865b4c745d103296427f6ea0abe67d074979",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
         "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
         "symbol": "NIA",
         "decimals": 18,
