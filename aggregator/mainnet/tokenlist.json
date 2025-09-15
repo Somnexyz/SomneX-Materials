@@ -14,18 +14,8 @@
         "tag": "Trends",
         "isTop": true,
         "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png",
-        "poolAddr": "0xe5467be8b8db6b074904134e8c1a581f5565e2c3",
+        "poolAddr": "0xb1a5a70A946667655bF14512599d06ACCA020F62",
         "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
-      },
-      {
-        "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
-        "symbol": "WETH",
-        "decimals": 6,
-        "tag": "Trends",
-        "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png",
-        "poolAddr": "0x9FCCa0a1af56d34C88156E8857A5f430dB7A6382",
-        "toTokenAddr": "0xbA9986D2381edf1DA03B0B9c1f8b00dc4AacC369"
       },
       {
         "address": "0x28BEc7E30E6faee657a03e19Bf1128AaD7632A00",
@@ -33,7 +23,8 @@
         "decimals": 6,
         "tag": "USD",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdc.png",
+        "poolAddr":"0x994570aa6a46d2bc0358f799634ae8db79b8cd73"
       },
       {
         "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
@@ -41,7 +32,45 @@
         "decimals": 6,
         "tag": "USD",
         "isTop": true,
-        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png"
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/aggregator/assets/usdt.png",
+        "poolAddr": "0xb346de4dea98f55d488169d67bf0935503b8cc6a"
+      },
+      {
+        "address": "0x07e4ff8b9bba0f9f9aebed2fc5e8a773fb1e03ea",
+        "symbol": "BOBR",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/6bdb2446-2a0b-5e00-b475-34329a41d874.webp",
+        "poolAddr": "0x30c2c574759b7f05240d9e80a79813ee9f32c283",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
+        "address": "0xd5447af13a1df69add89e185155b20fb72d5e9a7",
+        "symbol": "JELLU",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/34bf923f-3dfe-59a4-be8b-9912e88bee84.webp",
+        "poolAddr": "0x2d613016b1242250e1572f52d4d1f411ee0d98a9",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
+        "address": "0x1d95f6d8dac2f8d667957e10b6bbce4136dd93b5",
+        "symbol": "BEARDY",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/450843d7-81f0-5fbc-92f5-1dc73bf398bf.webp",
+        "poolAddr": "0xf0d7865b4c745d103296427f6ea0abe67d074979",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
+        "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
+        "symbol": "NIA",
+        "decimals": 18,
+        "tag": "Trends",
+        "isTop": true,
+        "logoURI": "https://raw.githubusercontent.com/Ginger3Labs/gingerswap-v2sdk/refs/heads/main/images/0xF2F773753cEbEFaF9b68b841d80C083b18C69311.png",
+        "poolAddr": "0x89b6827843b884b862489c2fc526374d0f9f1c39",
+        "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
       }
     ],
     "version": {
