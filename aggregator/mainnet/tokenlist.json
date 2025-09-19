@@ -63,6 +63,15 @@
         "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       },
       {
+        "address": "0x02c3f0fa4db1600288a735b3ec07ca660e64f398",
+        "symbol": "POKER",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/d39d954e-8050-597e-bbdd-9ce4cb285725.webp",
+        "poolAddr": "0x956e7fdd5386257077cebdd9724c9f437bfcddf9",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
         "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
         "symbol": "NIA",
         "decimals": 18,
