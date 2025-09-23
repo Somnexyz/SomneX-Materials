@@ -80,6 +80,16 @@
         "logoURI": "https://raw.githubusercontent.com/Ginger3Labs/gingerswap-v2sdk/refs/heads/main/images/0xF2F773753cEbEFaF9b68b841d80C083b18C69311.png",
         "poolAddr": "0x89b6827843b884b862489c2fc526374d0f9f1c39",
         "toTokenAddr": "0x28bec7e30e6faee657a03e19bf1128aad7632a00"
+      },
+      {
+        "address": "0xb59ba7862855faf39c75d3297e9a9d08d15321e3",
+        "symbol": "PUMPAZ",
+        "decimals": 18,
+        "tag": "Trends",
+        "isTop": true,
+        "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/pumpaz.png",
+        "poolAddr": "0xc9782ef09857eef0d61968c5236428aadb59c777",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       }
     ],
     "version": {
