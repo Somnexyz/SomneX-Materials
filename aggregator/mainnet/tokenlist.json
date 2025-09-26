@@ -72,6 +72,15 @@
         "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       },
       {
+        "address": "0x7bdc0a37c4f4f4928744e2a8111f16268c5dad52",
+        "symbol": "JADU",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/018cd077-d3f0-54fc-bf08-667c639bacd7.webp",
+        "poolAddr": "0xb1aca87aab13a873a2e309023da9326d362fadd1",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
         "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
         "symbol": "NIA",
         "decimals": 18,
