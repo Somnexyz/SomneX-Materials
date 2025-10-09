@@ -81,6 +81,15 @@
         "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
       },
       {
+        "address": "0xe8cbef2ee42db1ff620f2d6393961420b0b9e27f",
+        "symbol": "QLN",
+        "decimals": 18,
+        "tag": "Meme",
+        "logoURI": "https://cdn.somnia.meme/somnia-meme-images/23ba6a1a-06bb-5061-b6d2-1dd7f0b05a26.webp",
+        "poolAddr": "0x3d9e7c146605239cb77019f6a2a12eb327d398df",
+        "toTokenAddr": "0x046ede9564a72571df6f5e44d0405360c0f4dcab"
+      },
+      {
         "address": "0xc063b29cd6b30885783b505ae180b3079e0a2154",
         "symbol": "NIA",
         "decimals": 18,
